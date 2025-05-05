@@ -1,6 +1,6 @@
 ## Load music in this area ##
-music data/music/stage1-1.ogg 441680
-bossmusic	data/music/boss-1.ogg
+music data/music/stage1.ogg 441680
+bossmusic	data/music/boss.ogg
 
 ## Load images in this area ##
 
